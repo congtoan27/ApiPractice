@@ -1,0 +1,12 @@
+/home/congtoan/RiderProjects/TodoApi/IRepository.Abstractions/obj/Debug/net8.0/IRepository.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+/home/congtoan/RiderProjects/TodoApi/IRepository.Abstractions/obj/Debug/net8.0/IRepository.Abstractions.AssemblyInfoInputs.cache
+/home/congtoan/RiderProjects/TodoApi/IRepository.Abstractions/obj/Debug/net8.0/IRepository.Abstractions.AssemblyInfo.cs
+/home/congtoan/RiderProjects/TodoApi/IRepository.Abstractions/obj/Debug/net8.0/IRepository.Abstractions.csproj.CoreCompileInputs.cache
+/home/congtoan/RiderProjects/TodoApi/IRepository.Abstractions/obj/Debug/net8.0/IRepository.Abstractions.csproj.AssemblyReference.cache
+/home/congtoan/RiderProjects/TodoApi/IRepository.Abstractions/bin/Debug/net8.0/IRepository.Abstractions.deps.json
+/home/congtoan/RiderProjects/TodoApi/IRepository.Abstractions/bin/Debug/net8.0/IRepository.Abstractions.dll
+/home/congtoan/RiderProjects/TodoApi/IRepository.Abstractions/bin/Debug/net8.0/IRepository.Abstractions.pdb
+/home/congtoan/RiderProjects/TodoApi/IRepository.Abstractions/obj/Debug/net8.0/IRepository.Abstractions.dll
+/home/congtoan/RiderProjects/TodoApi/IRepository.Abstractions/obj/Debug/net8.0/refint/IRepository.Abstractions.dll
+/home/congtoan/RiderProjects/TodoApi/IRepository.Abstractions/obj/Debug/net8.0/IRepository.Abstractions.pdb
+/home/congtoan/RiderProjects/TodoApi/IRepository.Abstractions/obj/Debug/net8.0/ref/IRepository.Abstractions.dll

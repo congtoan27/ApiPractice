@@ -1,0 +1,15 @@
+/home/congtoan/RiderProjects/TodoApi/ToDoRepository.MongoDb/obj/Debug/net8.0/ToDoRepository.MongoDb.csproj.AssemblyReference.cache
+/home/congtoan/RiderProjects/TodoApi/ToDoRepository.MongoDb/obj/Debug/net8.0/ToDoRepository.MongoDb.GeneratedMSBuildEditorConfig.editorconfig
+/home/congtoan/RiderProjects/TodoApi/ToDoRepository.MongoDb/obj/Debug/net8.0/ToDoRepository.MongoDb.AssemblyInfoInputs.cache
+/home/congtoan/RiderProjects/TodoApi/ToDoRepository.MongoDb/obj/Debug/net8.0/ToDoRepository.MongoDb.AssemblyInfo.cs
+/home/congtoan/RiderProjects/TodoApi/ToDoRepository.MongoDb/obj/Debug/net8.0/ToDoRepository.MongoDb.csproj.CoreCompileInputs.cache
+/home/congtoan/RiderProjects/TodoApi/ToDoRepository.MongoDb/obj/Debug/net8.0/ToDoRepo.2AB075CC.Up2Date
+/home/congtoan/RiderProjects/TodoApi/ToDoRepository.MongoDb/bin/Debug/net8.0/ToDoRepository.MongoDb.deps.json
+/home/congtoan/RiderProjects/TodoApi/ToDoRepository.MongoDb/bin/Debug/net8.0/ToDoRepository.MongoDb.dll
+/home/congtoan/RiderProjects/TodoApi/ToDoRepository.MongoDb/bin/Debug/net8.0/ToDoRepository.MongoDb.pdb
+/home/congtoan/RiderProjects/TodoApi/ToDoRepository.MongoDb/bin/Debug/net8.0/IRepository.Abstractions.dll
+/home/congtoan/RiderProjects/TodoApi/ToDoRepository.MongoDb/bin/Debug/net8.0/IRepository.Abstractions.pdb
+/home/congtoan/RiderProjects/TodoApi/ToDoRepository.MongoDb/obj/Debug/net8.0/ToDoRepository.MongoDb.dll
+/home/congtoan/RiderProjects/TodoApi/ToDoRepository.MongoDb/obj/Debug/net8.0/refint/ToDoRepository.MongoDb.dll
+/home/congtoan/RiderProjects/TodoApi/ToDoRepository.MongoDb/obj/Debug/net8.0/ToDoRepository.MongoDb.pdb
+/home/congtoan/RiderProjects/TodoApi/ToDoRepository.MongoDb/obj/Debug/net8.0/ref/ToDoRepository.MongoDb.dll

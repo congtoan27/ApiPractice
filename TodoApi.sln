@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApi", "TodoApi\TodoApi.csproj", "{BE98F639-D561-4ABD-842C-C39458395537}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryTest", "RepositoryTest\RepositoryTest.csproj", "{0A284C76-8BE9-4F5A-946A-A9DD39AB21F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRepository.Abstractions", "IRepository.Abstractions\IRepository.Abstractions.csproj", "{A1026193-210D-4A6A-943D-10131CF12CCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoRepository.MongoDb", "ToDoRepository.MongoDb\ToDoRepository.MongoDb.csproj", "{EEBC07D6-46AA-439A-8EED-A1D16904EA11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE98F639-D561-4ABD-842C-C39458395537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE98F639-D561-4ABD-842C-C39458395537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE98F639-D561-4ABD-842C-C39458395537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE98F639-D561-4ABD-842C-C39458395537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A284C76-8BE9-4F5A-946A-A9DD39AB21F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A284C76-8BE9-4F5A-946A-A9DD39AB21F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A284C76-8BE9-4F5A-946A-A9DD39AB21F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A284C76-8BE9-4F5A-946A-A9DD39AB21F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1026193-210D-4A6A-943D-10131CF12CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1026193-210D-4A6A-943D-10131CF12CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1026193-210D-4A6A-943D-10131CF12CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1026193-210D-4A6A-943D-10131CF12CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEBC07D6-46AA-439A-8EED-A1D16904EA11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEBC07D6-46AA-439A-8EED-A1D16904EA11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEBC07D6-46AA-439A-8EED-A1D16904EA11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEBC07D6-46AA-439A-8EED-A1D16904EA11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

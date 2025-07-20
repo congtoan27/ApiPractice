@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/congtoan/RiderProjects/TodoApi/IRepository.Abstractions/IRepository.Abstractions.csproj": {}
+  },
+  "projects": {
+    "/home/congtoan/RiderProjects/TodoApi/IRepository.Abstractions/IRepository.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/congtoan/RiderProjects/TodoApi/IRepository.Abstractions/IRepository.Abstractions.csproj",
+        "projectName": "IRepository.Abstractions",
+        "projectPath": "/home/congtoan/RiderProjects/TodoApi/IRepository.Abstractions/IRepository.Abstractions.csproj",
+        "packagesPath": "/home/congtoan/.nuget/packages/",
+        "outputPath": "/home/congtoan/RiderProjects/TodoApi/IRepository.Abstractions/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/congtoan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/congtoan/.dotnet/sdk/8.0.412/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
